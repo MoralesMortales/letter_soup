@@ -28,7 +28,7 @@ History
 
 </details>
 
-##How to use
+## How to use
 
 Install this proyect as a Zip, then unzip it and run it with the following commands
 
